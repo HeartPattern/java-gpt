@@ -1,6 +1,6 @@
-# Java-Gpt
+# Java-GPT
 
-Do not implement function, just ask to chat gpt.
+Do not implement, just ask to chat GPT.
 
 ## Example usage
 ```java
